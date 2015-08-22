@@ -1,4 +1,4 @@
-The R script for the project has the following structure.
+#The R script for the project has the following structure.
 
 1.	The  Setup section sets the working directory and the libraries used. The two libraries were
 
