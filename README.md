@@ -1,8 +1,10 @@
 The R script for the project has the following structure.
 
 1.	The  Setup section sets the working directory and the libraries used. The two libraries were
-a.	dplyr for manipulating data
-b.	cars for its recode function
+
+  a.	dplyr for manipulating data
+
+  b.	cars for its recode function
 
 2.	The next three parts read in the three training data sets, the three test data sets, and the description data. These data sets are described in detail in the codebook.
 
